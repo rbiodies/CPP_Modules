@@ -1,20 +1,13 @@
 # CPP_Modules
-The goal of these modules is to introduce you to **Object-Oriented Programming**.
-## CPP Module 00
-This first module of C++ is designed to help you understand the specifities of the language when compared to C.
-## CPP Module 01
-This module is designed to help you understand the memory allocation, reference, pointers to members and the usage of the switch in CPP.
-## CPP Module 02
-This module is designed to help you understand Ad-hoc polymorphism, overloads and orthodox canonical classes in CPP.
-## CPP Module 03
-This module is designed to help you understand Inheritance in CPP.
-## CPP Module 04
-This module is designed to help you understand Subtype polymorphism, abstract classes and interfaces in CPP.
-## CPP Module 05
-This module is designed to help you understand Try/Catch and Exceptions in CPP.
-## CPP Module 06
-This module is designed to help you understand the different casts in CPP.
-## CPP Module 07
-This module is designed to help you understand Templates in CPP.
-## CPP Module 08
-This module is designed to help you understand templated containers, iterators and algorithms in CPP.
+### The goal of these modules:
+To introduce you to **Object-Oriented Programming**.
+### CPP Modules:
+- CPP Module 00 **(Specifities of the language when compared to C)**.
+- CPP Module 01 **(Memory allocation, reference, pointers to members and the usage of the switch)**.
+- CPP Module 02 **(Ad-hoc polymorphism, overloads and orthodox canonical classes)**.
+- CPP Module 03 **(Inheritance)**.
+- CPP Module 04 **(Subtype polymorphism, abstract classes and interfaces)**.
+- CPP Module 05 **(Try/Catch and Exceptions)**.
+- CPP Module 06 **(Different casts)**.
+- CPP Module 07 **(Templates)**.
+- CPP Module 08 **(Templated containers, iterators and algorithms)**.
