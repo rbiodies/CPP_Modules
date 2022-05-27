@@ -11,3 +11,5 @@ To introduce you to **Object-Oriented Programming**.
 - [CPP Module 06: Different casts](https://github.com/rbiodies/CPP_Modules/tree/main/cpp_module_06)
 - [CPP Module 07: Templates](https://github.com/rbiodies/CPP_Modules/tree/main/cpp_module_07)
 - [CPP Module 08: Templated containers, iterators and algorithms](https://github.com/rbiodies/CPP_Modules/tree/main/cpp_module_08)
+
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
