@@ -1,4 +1,4 @@
-# CPP_Modules
+# <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/cplusplus.svg" /> CPP_Modules
 ### The goal of these modules:
 To introduce you to **Object-Oriented Programming**.
 ### CPP Modules:
