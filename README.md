@@ -1,7 +1,6 @@
 # <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/cplusplus.svg" /> CPP_Modules
-### Goal:
-To introduce you to **Object-Oriented Programming**.
-### Descriptions:
+The goal of this modules is to introduce you to **Object-Oriented Programming**.
+## Descriptions
 - [CPP Module 00: Specifities of the language when compared to C](https://github.com/rbiodies/CPP_Modules/tree/main/cpp_module_00)
 - [CPP Module 01: Memory allocation, reference, pointers to members and the usage of the switch](https://github.com/rbiodies/CPP_Modules/tree/main/cpp_module_01)
 - [CPP Module 02: Ad-hoc polymorphism, overloads and orthodox canonical classes](https://github.com/rbiodies/CPP_Modules/tree/main/cpp_module_02)
@@ -11,7 +10,7 @@ To introduce you to **Object-Oriented Programming**.
 - [CPP Module 06: Different casts](https://github.com/rbiodies/CPP_Modules/tree/main/cpp_module_06)
 - [CPP Module 07: Templates](https://github.com/rbiodies/CPP_Modules/tree/main/cpp_module_07)
 - [CPP Module 08: Templated containers, iterators and algorithms](https://github.com/rbiodies/CPP_Modules/tree/main/cpp_module_08)
-### Grades:
+## Grades
 | **CPP Module 00** | <img src="https://badge42.vercel.app/api/v2/cl1lzvgei001109josyi61e97/project/2524477"/> | **CPP Module 01** | <img src="https://badge42.vercel.app/api/v2/cl1lzvgei001109josyi61e97/project/2525691"/> |
 | :------------: | :------------: | :------------: | :------------: |
 | **CPP Module 02** | <img src="https://badge42.vercel.app/api/v2/cl1lzvgei001109josyi61e97/project/2528841"/> | **CPP Module 03** | <img src="https://badge42.vercel.app/api/v2/cl1lzvgei001109josyi61e97/project/2529243"/> |
